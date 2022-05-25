@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋 , I'm Rabina</h1>
-<h3 align="left">Welcome to my GitHub profile! I'm a self-taught frontend developer with keen interest for design and visual stuff. Besides my coding interest, I also like painting 🎨 and reading colleen hoover books🦋</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
+<h3 align="left"> I'm a self-taught frontend developer with keen interest for design and visual stuff. Besides my coding interest, I also like painting 🎨 and reading colleen hoover books🦋</h3>
 
 - 📫 How to reach me **rabinaprd27@gmail.com**
 
@@ -7,9 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
-[![Instagram Badge](https://img.shields.io/badge/-@velvrin?style=flat&logo=instagram&logoColor=white&link=https://instagram.com)](https://instagram.com/)
-[![Gmail Badge](https://img.shields.io/badge/-rabinaprd27-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rabinprd27@gmail.com)](mailto:rabinaprd27@gmail.com)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
