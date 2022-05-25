@@ -18,7 +18,8 @@
 </div>
 
 <p align="left">
-<a href="https://instagram.com/velvrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="velvrin" height="30" width="40" /></a>
+   <a href="https://img.shields.io/badge/Instagram-velvrin?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 <a href="https://www.behance.net/rabinapradhan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rabinapradhan1" height="30" width="40" /></a>
 </p>
 
