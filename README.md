@@ -1,4 +1,5 @@
-<h1 align="left">Hi, I'm Rabina <img src="https://user-images.githubusercontent.com/105667500/170270080-d408a311-1290-4be2-bfbe-1ce9868213ff.gif" width="50"></h1> 
+<h1 align="left">Hi, I'm Rabina <img src="https://tenor.com/bIF82.gif" width="50"></h1> 
+
 
 
 
