@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋 , I'm Rabina</h1>
+<h1 align="left">Hi 👋 , I'm Rabina</h1> ![hi](https://user-images.githubusercontent.com/105667500/170269936-eb237a2e-c05b-44f7-83f2-7029d1012aef.gif)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=24&duration=6000&color=F7AAAA&background=FFFFFF&vCenter=true&width=380&lines=Welcome+to+my+GitHub+Profile+;%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%EF%BE%89%E2%99%A1)](https://git.io/typing-svg)
 <h3 align="left" color="pink"> I'm a self-taught frontend developer with keen interest for design and visual stuff. Besides my coding interest, I also like painting 🎨 and reading colleen hoover books🦋</h3>
