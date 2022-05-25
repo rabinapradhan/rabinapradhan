@@ -13,20 +13,11 @@
 
  
 
-<div width="100%" style=text-align: {center};>
-
-</div>
-
-<p align="left">
-   <a href="https://img.shields.io/badge/Instagram-velvrin?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-<a href="https://www.behance.net/rabinapradhan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rabinapradhan1" height="30" width="40" /></a>
-</p>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-## 🛠️ My favorite languages and tools
+
+## Langauges and Tools:
 
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
