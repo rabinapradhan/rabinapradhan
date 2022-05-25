@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 , I'm Rabina</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a self-taught frontend developer with keen interest for design and visual stuff. Besides my coding interest, I also like painting 🎨 and reading colleen hoover books🦋</h3>
+<h1 align="left">Hi 👋 , I'm Rabina</h1>
+<h3 align="left">Welcome to my GitHub profile! I'm a self-taught frontend developer with keen interest for design and visual stuff. Besides my coding interest, I also like painting 🎨 and reading colleen hoover books🦋</h3>
 
 - 📫 How to reach me **rabinaprd27@gmail.com**
 
