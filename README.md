@@ -1,8 +1,6 @@
-<h1 align="left">Hi, I'm Rabina <img src="https://tenor.com/view/cat-cats-gif-23002426" width="50"></h1> 
+<h1 align="left">Hi, I'm Rabina <img src="https://user-images.githubusercontent.com/105667500/170283209-e1948435-9c0a-4827-86a0-014315687988.gif" width="50"></h1> 
 
-[
-](https://tenor.com/view/cat-cats-gif-23002426)
-<h1 align="left">Hi, I'm Rabina <img src="[()" width="50"></h1> 
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=24&duration=6000&color=F7AAAA&background=FFFFFF&vCenter=true&width=380&lines=Welcome+to+my+GitHub+Profile+;%CA%95%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%EF%BE%89%E2%99%A1)](https://git.io/typing-svg)
 <h4 align="left" color="pink"> I'm a self-taught frontend developer with keen interest for design and visual stuff. Besides my coding interest, I also like painting 🎨 and reading novels</h4>
