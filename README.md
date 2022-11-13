@@ -2,7 +2,8 @@
 <img src="https://github.com/rabinapradhan/rabinapradhan/blob/main/hello.gif" align="center" style="width: 100%" />
 </div>  
   
-
+![](https://komarev.com/ghpvc/?username=rabinapradhan&label=PROFILE+VIEWS&color=ff69b4)
+<br/>
 I am Rabina Pradhan based in Kathmandu, Nepal. I write tech related articles and mostly do freelancing .I also enjoy contributing to Open Source and dedicated in learning and sharing tech related content. Find out more about me here:  
   
 
@@ -87,21 +88,13 @@ I am Rabina Pradhan based in Kathmandu, Nepal. I write tech related articles and
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/rabinapradhan&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefined&hide_border=true&layout=compact" align="left" />  
-
-![](https://github.com/rabinapradhan/github_stats/blob/master/generated/languages.svg)
-![](https://github.com/rabinapradhan/github_stats/blob/master/generated/overview.svg)
-</div>  
-<br/>  
+[![Rabina GitHub stats](https://github-readme-stats.vercel.app/api?username=rabinapradhan&theme=graywhite&show_icons=true)](https://github.com/rabinapradhan/github-readme-stats)
+  <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabinapradhan&layout=compact&theme=graywhite&show_icons=true)](https://github.com/rabinapradhan/github-readme-stats)
 
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=https://github.com/rabinapradhan&&style=flat-square)  
-  
-
-<br/>  
 
 
 
