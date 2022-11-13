@@ -2,8 +2,7 @@
 <img src="https://github.com/rabinapradhan/rabinapradhan/blob/main/hello.gif" align="center" style="width: 100%" />
 </div>  
   
-![](https://komarev.com/ghpvc/?username=rabinapradhan&label=PROFILE+VIEWS&color=ff69b4)
-<br/>
+
 I am Rabina Pradhan based in Kathmandu, Nepal. I write tech related articles and mostly do freelancing .I also enjoy contributing to Open Source and dedicated in learning and sharing tech related content. Find out more about me here:  
   
 
