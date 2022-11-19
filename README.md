@@ -2,8 +2,6 @@
 <img src="https://github.com/rabinapradhan/rabinapradhan/blob/main/hello.gif" align="center" style="width: 100%" />
 </div>  
   
-
-I am Rabina Pradhan based in Kathmandu, Nepal. I write tech related articles and mostly do freelancing .I also enjoy contributing to Open Source and dedicated in learning and sharing tech related content. Find out more about me here:  
   
 
 ### <div align="center"> <i> I'm a Frontend Developer focusing in React and TypeScript <i></div>  
