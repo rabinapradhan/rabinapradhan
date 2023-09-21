@@ -15,10 +15,6 @@
 
 - 📄  I  write articles on https://medium.com/@velvrin
   
-  
-
-- 🎨 I'm interested in : Reading Novels and Exploring nature  
-  
 
 - ✉  How to reach me: rabinaprd27@gmail.com  
   
