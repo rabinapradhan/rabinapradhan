@@ -6,17 +6,6 @@
 
 ### <div align="center"> <i> I'm a Frontend Developer focusing in React and TypeScript <i></div>  
   
-
--  📚 I’m currently learning Nextjs and Sanity  
-  
-
--  🌷 I'm open for : Open for any Project Collaboration   
-  
-
-- 📄  I  write articles on https://medium.com/@velvrin
-  
-
-- ✉  How to reach me: rabinaprd27@gmail.com  
   
 
 <br/>  
