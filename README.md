@@ -1,12 +1,3 @@
-<div align="center">
-<img src="https://github.com/rabinapradhan/rabinapradhan/blob/main/hello.gif" align="center" style="width: 100%" />
-</div>  
-  
-  
-
-### <div align="center"> <i> I'm a Frontend Developer focusing in React and TypeScript <i></div>  
-  
-  
 
 <br/>  
 
@@ -61,12 +52,8 @@
   
 
 <br/>  
-
-
 ## Github Stats  
-https://github-readme-stats.vercel.app/api/top-langs/?username=rabinapradhan&layout=compact&theme=graywhite&show_icons=true)](https://github.com/rabinapradhan/github-readme-stats
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rabinapradhan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
