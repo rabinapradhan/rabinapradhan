@@ -64,10 +64,7 @@
 
 
 ## Github Stats  
-
-
-  <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabinapradhan&layout=compact&theme=graywhite&show_icons=true)](https://github.com/rabinapradhan/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=rabinapradhan&layout=compact&theme=graywhite&show_icons=true)](https://github.com/rabinapradhan/github-readme-stats
 
 
 
