@@ -53,7 +53,7 @@
 
 <br/>  
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rabinapradhan)](https://github.com/rabinapradhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabinapradhan)](https://github.com/rabinapradhan/github-readme-stats)
 
 
 
