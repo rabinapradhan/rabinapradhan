@@ -65,7 +65,7 @@
 
 ## Github Stats  
 
-[![Rabina GitHub stats](https://github-readme-stats.vercel.app/api?username=rabinapradhan&theme=graywhite&show_icons=true)](https://github.com/rabinapradhan/github-readme-stats)
+
   <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabinapradhan&layout=compact&theme=graywhite&show_icons=true)](https://github.com/rabinapradhan/github-readme-stats)
 
