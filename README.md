@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rabina.pradhan.com.np">
+  <a href="https://rabinapradhan.com.np">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/rabinapradhan">
@@ -93,7 +93,7 @@ A Nepali homestay booking platform connecting travelers with local hosts.
 ##  Let's Connect
 
 <p align="center">
-  <a href="https://rabina.pradhan.com.np">
+  <a href="https://rabinapradhan.com.np">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/rabinapradhan">
